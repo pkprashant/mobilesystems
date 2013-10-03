@@ -4,9 +4,9 @@
 int main()
 {
 	employee* e=[[employee alloc]init];
-	[e setName:@"Manisha"];
+	[e setName:@"Prashant"];
 	[e setDept:@"ISE"];
-	[e setIdno:@"1PI10IS050"];
+	[e setIdno:@"1PI10IS074"];
 	[e print];
 	[e release];
 	return 0;
